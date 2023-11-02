@@ -1,0 +1,11 @@
+Escribir cabecera en el código
+
+
+
+Necesitamos un programa de desensamblado (decompilado es ilegal y no ayuda mucho) 
+Los textos están encriptados (codigo inutil)
+Buscar en el programa cuando se lee el puerto de la llave (se lee más de una vez)
+Los metadatos, cabeceras... cambian de un sistema operativo a otro. En el ejecutable se puede ver que SO es.
+
+
+1º Magic number file: serie de bytes que sirven para identificar el tipo de fichero
